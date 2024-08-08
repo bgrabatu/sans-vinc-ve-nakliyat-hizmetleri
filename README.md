@@ -1,7 +1,8 @@
 <h1 style="color:#e67e22;">🏗️ Şans Vinç ve Nakliyat Hizmetleri Web Sitesi</h1>
 
 <p><strong style="color:#e74c3c;">Proje:</strong> Şans Vinç ve Nakliyat Hizmetleri Web Sitesi</p>
-<p><strong style="color:#e74c3c;">Müşteri:</strong> Şans Vinç ve Nakliyat Hizmetleri (Güvenilir vinç kiralama ve nakliyat hizmetleri sunan sektör lideri)</p>
+<p><strong style="color:#e74c3c;">Müşteri:</strong> Şans Vinç ve Nakliyat Hizmetleri</p>
+<p>Şans Vinç ve Nakliyat Hizmetleri, geniş hizmet ağımız, uzman ekibimiz, teknolojik altyapımız ve vinç kiralama hizmetlerimizle iş dünyasına değer katıyoruz. Türkiye'nin dört bir yanına yayılan şubelerimizle, müşterilerimize coğrafi mesafe tanımadan ulaşıyor ve projelerinizi en güvenilir şekilde yönetiyoruz. Deneyimli kadromuz, modern teknolojik çözümlerimiz ve sürdürülebilir iş anlayışımızla işinizi güçlendirmeniz için yanınızdayız. Şans Vinç ve Nakliyat Hizmetleri ile çalışın, projelerinizi güvenle teslim edin!</p>
 <p><strong style="color:#e74c3c;">Hedef:</strong> Hizmetlerini dijital platformda tanıtarak potansiyel müşterilere ulaşmak ve online talepleri karşılamak</p>
 
 <h2 style="color:#2ecc71;">Proje Özeti</h2>
@@ -23,12 +24,12 @@
 <img src="https://www.ornek-domein.com/sansvinc-gorsel2.jpg" alt="Websitesi Hizmetler Sayfası" style="border: 1px solid #ddd; border-radius: 4px; padding: 5px; width: 100%; margin-top: 20px;">
 
 <h2 style="color:#2ecc71;">Websitesi Linki</h2>
-<p>Projeyi canlı olarak görmek için <a href="https://www.ornek-domein.com" target="_blank" style="color:#2980b9; text-decoration: none;">buraya tıklayın</a>.</p>
+<p>Projeyi canlı olarak görmek için <a href="https://sansvincvenakliyat.com/" target="_blank" style="color:#2980b9; text-decoration: none;">buraya tıklayın</a>.</p>
 
 <h2 style="color:#2ecc71;">Notlar</h2>
 <p>Bu proje, müşteri talebi doğrultusunda özel olarak geliştirildiği için kaynak kodları bu depoda paylaşılmamaktadır. Ancak proje hakkında daha fazla bilgi almak veya benzer bir çalışma talep etmek isterseniz, benimle iletişime geçebilirsiniz.</p>
 
 <h2 style="color:#2ecc71;">İletişim</h2>
-<p>Bu projeyle ilgili detaylar veya yeni projeler hakkında bilgi almak için <a href="mailto:bugrabatuhanbasar@gmail.com" style="color:#c0392b; text-decoration: none;">buradan</a> bana ulaşabilirsiniz.</p>
+<p>Bu projeyle ilgili detaylar veya yeni projeler hakkında bilgi almak için <a href="mailto:treebsoftware@gmail.com" style="color:#c0392b; text-decoration: none;">buradan</a> bana ulaşabilirsiniz.</p>
 
 <p><em>Bu proje, Şans Vinç ve Nakliyat Hizmetleri'nin dijital dünyada daha güçlü bir varlık oluşturması için tasarlanmıştır.</em></p>
