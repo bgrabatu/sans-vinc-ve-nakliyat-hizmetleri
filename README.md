@@ -13,7 +13,6 @@
     <li><strong style="color:#f39c12;">Gelişmiş Hizmet Tanıtımı:</strong> Firmanın sunduğu tüm vinç kiralama ve nakliyat hizmetlerinin detaylı açıklamaları.</li>
     <li><strong style="color:#f39c12;">Müşteri Referansları:</strong> Firmanın sektördeki güvenilirliğini artırmak için öne çıkarılan müşteri yorumları.</li>
     <li><strong style="color:#f39c12;">Duyarlı Tasarım:</strong> Tüm cihazlarla uyumlu, mobil ve masaüstü kullanımına uygun bir web sitesi.</li>
-    <li><strong style="color:#f39c12;">Online Talep Formu:</strong> Müşterilerin hızlı ve kolayca talep gönderebilecekleri entegre bir form sistemi.</li>
 </ul>
 
 <h2 style="color:#2ecc71;">Görseller</h2>
